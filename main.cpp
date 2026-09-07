@@ -73,7 +73,7 @@ int main() {
                         // ('W9X49', 'Trịnh Văn Chiến', 18, 'CNTT', 'Điện Biên', 'chien191@gmail.com'),
                         // ('X0Y50', 'Mai Thị Dung', 18, 'CNTT', 'Lai Châu', 'dung202@gmail.com'),
                         // ('Y1Z51', 'Phan Văn Giang', 18, 'CNTT', 'Lào Cai', 'giang313@gmail.com'),
-                        // ('Z2A52', 'Nguyễn Thị Hải', 18, 'CNTT', 'Yên Bái', 'hai424@gmail.com'),
+                        // ('Z2A52', 'Nguyễn Thị Hảigit commit', 18, 'CNTT', 'Yên Bái', 'hai424@gmail.com'),
                         // ('A3B53', 'Trần Hữu Hùng', 18, 'CNTT', 'Thái Nguyên', 'hung535@gmail.com'),
                         // ('B4C54', 'Lê Thi Hương', 18, 'CNTT', 'Bắc Giang', 'huong646@gmail.com'),
                         // ('C5D55', 'Phạm Văn Khoa', 18, 'CNTT', 'Phú Thọ', 'khoa757@gmail.com'),

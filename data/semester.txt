@@ -1,0 +1,5 @@
+  insert into semester(semesterNumber, termType, year)values
+                        (1,1,'2025-2026'),
+                        (1,2,'2025-2026'),
+                        (2,1,'2025-2026'),
+                        (2,2,'2025-2026');
